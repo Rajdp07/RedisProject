@@ -3,16 +3,16 @@ This is a Basic Redis Project which utilizes Redis's Data Structures such as Lis
 This web app basically keeps a track of all the to-do works with ADD, DELETE feature.
 It also shows the next appointment with company.
 
-#Tech-Stacks Used:-
+# Tech-Stacks Used:-
 
-##Redis
-##JavaScript
-##NodeJs
-##ExpressJS
-##HTML
-##CSS
+## Redis
+## JavaScript
+## NodeJs
+## ExpressJS
+## HTML
+## CSS
 
-#How To Run in your Local Machine:-
+# How To Run in your Local Machine:-
 1> Clone this Repo
 2> Open Command Prompt
 3> Move To the Project Directory
@@ -22,4 +22,4 @@ It also shows the next appointment with company.
 7> You can see and now perform operations in that.
 
 
-----------------------------------------------------------------------------------#Thank You-------------------------------------------------------------------------------------
+-------------------------------------------------------------------# Thank You-------------------------------------------------------------------------------------
