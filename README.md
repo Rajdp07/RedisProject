@@ -14,13 +14,13 @@ It also shows the next appointment with company.
 ## CSS
 
 # How To Run in your Local Machine:-
-1> Clone this Repo
-2> Open Command Prompt
-3> Move To the Project Directory
-4> Ensure Node is installed in your machine
-5> Install Nodemon (npm install nodemon -g)
-6> Move to your LocalHost 3000
-7> You can see and now perform operations in that.
+### Clone this Repo
+### Open Command Prompt
+### Move To the Project Directory
+### Ensure Node is installed in your machine
+### Install Nodemon (npm install nodemon -g)
+### Move to your LocalHost 3000
+### You can see and now perform operations in that.
 
 
 -------------------------------------------------------------------# Thank You-------------------------------------------------------------------------------------
