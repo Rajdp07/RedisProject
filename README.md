@@ -7,6 +7,7 @@ It also shows the next appointment with company.
 
 ## Redis
 ## JavaScript
+## EJS
 ## NodeJs
 ## ExpressJS
 ## HTML
